@@ -21,5 +21,5 @@ function makeInt(n) {
 
 }
 function makeInt(n){
-  var integer=parseInt()
+  
 }
