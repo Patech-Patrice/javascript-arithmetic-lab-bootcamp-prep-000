@@ -20,3 +20,6 @@ function makeInt(n){
     var integer=parseInt('n', 10);
     return (parseInt('n'));
 }
+function makeInt(n){
+  var integer=parseInt()
+}
